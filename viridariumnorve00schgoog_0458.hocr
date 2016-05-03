@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./viridariumnorve00schgoog_0458.png"; bbox 0 0 5226 6669; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2701 473 3113 485">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2701 473 3113 485">
+     <span class='ocr_line' id='line_1_1' title="bbox 2701 473 3113 485; baseline 0 6184"><span class='ocrx_word' id='word_1_1' title='bbox 2701 473 3113 485; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1176 4050 3286 4724">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1176 4050 3286 4724">
+     <span class='ocr_line' id='line_1_2' title="bbox 1176 4050 3286 4535; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 1176 4050 3286 4535; x_wconf 95' lang='lat' dir='ltr'><strong>   </strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1575 4535 3180 4724; baseline -0.004 0"><span class='ocrx_word' id='word_1_3' title='bbox 1575 4717 1648 4724; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2480 4535 3180 4717; x_wconf 95' lang='lat' dir='ltr'><strong>  </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1268 4535 1936 4717">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1268 4535 1936 4717">
+     <span class='ocr_line' id='line_1_4' title="bbox 1268 4535 1936 4658; baseline 0 -35"><span class='ocrx_word' id='word_1_5' title='bbox 1268 4535 1936 4658; x_wconf 95' lang='lat' dir='ltr'><strong>   </strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1408 4658 1934 4717; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 1408 4658 1551 4717; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1575 4658 1934 4717; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1775 5426 4022 5498">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1775 5426 4022 5498">
+     <span class='ocr_line' id='line_1_6' title="bbox 1775 5426 4022 5498; baseline 0.001 -19"><span class='ocrx_word' id='word_1_8' title='bbox 1775 5427 1891 5492; x_wconf 75' lang='lat' dir='ltr'><strong>Fig.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1933 5426 2047 5479; x_wconf 88' lang='grc'><strong>127.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 2117 5431 2351 5495; x_wconf 72' lang='lat' dir='ltr'>Frugter</span> <span class='ocrx_word' id='word_1_11' title='bbox 2386 5432 2448 5482; x_wconf 80' lang='lat' dir='ltr'><strong>af</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 2476 5433 2617 5483; x_wconf 79' lang='lat' dir='ltr'>Aoer</span> <span class='ocrx_word' id='word_1_13' title='bbox 2650 5434 3001 5498; x_wconf 77' lang='lat' dir='ltr'><strong>platanoides</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 3037 5432 3126 5483; x_wconf 79' lang='lat' dir='ltr'><strong>fra</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 3160 5432 3499 5483; x_wconf 77' lang='lat' dir='ltr'><strong>Christiania</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 3532 5447 3603 5497; x_wconf 82' lang='lat' dir='ltr'><strong>og</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 3637 5432 4022 5498; x_wconf 74' lang='lat' dir='ltr'><strong>Kjobenhavn.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
