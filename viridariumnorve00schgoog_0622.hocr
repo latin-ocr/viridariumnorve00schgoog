@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./viridariumnorve00schgoog_0622.png"; bbox 0 0 5226 6669; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2202 5272 3497 5337">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2202 5272 3497 5337">
+     <span class='ocr_line' id='line_1_1' title="bbox 2202 5272 3497 5337; baseline -0.001 -14"><span class='ocrx_word' id='word_1_1' title='bbox 2202 5274 2318 5337; x_wconf 84' lang='lat' dir='ltr'>Fig.</span> <span class='ocrx_word' id='word_1_2' title='bbox 2359 5273 2474 5321; x_wconf 81' lang='lat'><strong>153.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 2546 5272 2784 5321; x_wconf 82' lang='lat' dir='ltr'>Robinia</span> <span class='ocrx_word' id='word_1_4' title='bbox 2817 5274 3183 5337; x_wconf 77' lang='lat' dir='ltr'><strong>pseudacaeia</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 3216 5274 3233 5322; x_wconf 85' lang='lat' dir='ltr'>i</span> <span class='ocrx_word' id='word_1_6' title='bbox 3272 5274 3497 5336; x_wconf 74' lang='lat' dir='ltr'><strong>Ber-gen.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

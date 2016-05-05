@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./viridariumnorve00schgoog_0308.png"; bbox 0 0 5226 6669; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2797 478 2925 546">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2797 478 2925 546">
+     <span class='ocr_line' id='line_1_1' title="bbox 2797 478 2925 546; baseline -0.016 0"><span class='ocrx_word' id='word_1_1' title='bbox 2797 478 2925 546; x_wconf 80' lang='lat'><strong>244</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2043 6146 3662 6213">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2043 6146 3662 6213">
+     <span class='ocr_line' id='line_1_2' title="bbox 2043 6146 3662 6213; baseline -0.001 -16"><span class='ocrx_word' id='word_1_2' title='bbox 2043 6148 2160 6213; x_wconf 74' lang='lat' dir='ltr'><strong>Fig.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 2199 6147 2314 6199; x_wconf 82' lang='lat'>115.</span> <span class='ocrx_word' id='word_1_4' title='bbox 2384 6146 2852 6199; x_wconf 73' lang='lat' dir='ltr'>Vedbendoblade</span> <span class='ocrx_word' id='word_1_5' title='bbox 2886 6147 2948 6196; x_wconf 79' lang='lat' dir='ltr'><strong>af</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2976 6162 3046 6197; x_wconf 80' lang='lat' dir='ltr'><strong>en</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 3083 6146 3461 6198; x_wconf 74' lang='lat' dir='ltr'><strong>blomstrende</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 3497 6148 3662 6198; x_wconf 69' lang='lat' dir='ltr'><strong>Gran.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 5106 1116 5109 6595">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 5106 1116 5109 6595">
+     <span class='ocr_line' id='line_1_3' title="bbox 5106 1116 5109 6595; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 5106 1116 5109 6595; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

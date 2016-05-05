@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./viridariumnorve00schgoog_0471.png"; bbox 0 0 5226 6669; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2137 509 2541 516">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2137 509 2541 516">
+     <span class='ocr_line' id='line_1_1' title="bbox 2137 509 2541 516; baseline 0 6153"><span class='ocrx_word' id='word_1_1' title='bbox 2137 509 2541 516; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1164 5757 3534 5824">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1164 5757 3534 5824">
+     <span class='ocr_line' id='line_1_2' title="bbox 1164 5757 3534 5824; baseline 0.001 -16"><span class='ocrx_word' id='word_1_2' title='bbox 1164 5760 1280 5822; x_wconf 80' lang='lat' dir='ltr'><strong>Fig.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1322 5760 1434 5810; x_wconf 84' lang='lat'>132.</span> <span class='ocrx_word' id='word_1_4' title='bbox 1505 5757 1777 5809; x_wconf 80' lang='lat' dir='ltr'>Aesculus</span> <span class='ocrx_word' id='word_1_5' title='bbox 1814 5761 2282 5824; x_wconf 76' lang='lat' dir='ltr'><strong>hippoeastanum</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2318 5762 2338 5809; x_wconf 88' lang='lat' dir='ltr'><strong>i</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2374 5762 2483 5810; x_wconf 83' lang='lat' dir='ltr'><strong>den</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 2519 5761 2813 5810; x_wconf 71' lang='lat' dir='ltr'><strong>botaniske</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2847 5761 3004 5811; x_wconf 82' lang='lat' dir='ltr'><strong>Have</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 3040 5762 3145 5811; x_wconf 84' lang='lat' dir='ltr'><strong>ved</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 3182 5762 3534 5812; x_wconf 78' lang='lat' dir='ltr'><strong>Christiania.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
